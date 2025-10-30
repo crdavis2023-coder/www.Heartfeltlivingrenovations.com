@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import SEO from '../../components/SEO'
+import SEO from '../components/SEO'
 
 const SERVICES = {
   kitchen: {

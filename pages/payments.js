@@ -1,4 +1,4 @@
-import Layout from './Layout'
+import Layout from '../components/Layout'
 export default function Payments(){ return (
 <Layout>
   <h1 className="text-3xl font-bold mb-4">Payments</h1>
