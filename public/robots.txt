@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://heartfelthomerenovations.com
+
+# Sitemaps
+Sitemap: https://heartfelthomerenovations.com/sitemap.xml
