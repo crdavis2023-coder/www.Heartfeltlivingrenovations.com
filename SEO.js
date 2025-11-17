@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default function SEO({ title, description, url, image, children }){
   const siteName = 'Heartfelt Living Renovations'
   const metaTitle = title ? `${title} | ${siteName}` : siteName
-  const metaUrl = url || process.env.NEXT_PUBLIC_SITE_URL || 'https://heartfelthomerenovations.com'
+  const metaUrl = url || process.env.NEXT_PUBLIC_SITE_URL || 'https://www.heartfeltlivingrenovations.com'
 
   return (
     <Head>

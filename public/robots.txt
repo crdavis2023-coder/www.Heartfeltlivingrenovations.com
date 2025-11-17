@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://heartfelthomerenovations.com
+Host: https://www.heartfeltlivingrenovations.com
 
 # Sitemaps
-Sitemap: https://heartfelthomerenovations.com/sitemap.xml
+Sitemap: https://www.heartfeltlivingrenovations.com/sitemap.xml

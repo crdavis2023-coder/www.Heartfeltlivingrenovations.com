@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://heartfelthomerenovations.com',
+  siteUrl: process.env.SITE_URL || 'https://www.heartfeltlivingrenovations.com',
   generateRobotsTxt: true,
   changefreq: 'weekly',
   priority: 0.7,

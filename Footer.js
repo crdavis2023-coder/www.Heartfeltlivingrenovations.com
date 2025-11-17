@@ -8,7 +8,7 @@ export default function Footer(){
         </div>
         <div className="text-sm">
           <div>Phone: 803-748-5811</div>
-          <div>Email: davis.cr803@gmail.com</div>
+          <div>Email: crdavis39@heartfeltlivingrenovations.com</div>
           <div>Serving: Triangle & surrounding areas</div>
         </div>
         <div className="text-sm">

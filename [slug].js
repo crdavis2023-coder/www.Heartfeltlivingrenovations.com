@@ -64,7 +64,7 @@ export default function ServicePage(){
       '@type': 'LocalBusiness',
       name: 'Heartfelt Living Renovations LLC',
       telephone: '803-748-5811',
-      url: process.env.SITE_URL || 'https://heartfelthomerenovations.com'
+      url: process.env.SITE_URL || 'https://www.heartfeltlivingrenovations.com'
     },
     areaServed: 'Triangle & surrounding areas',
     offers: {
